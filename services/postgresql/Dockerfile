@@ -1,4 +1,4 @@
-FROM postgres:15.8-bullseye
+FROM postgres:16.4-bookworm
 
 MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
 
