@@ -1,4 +1,4 @@
-FROM node:23-bullseye-slim
+FROM node:23-bookworm-slim
 
 LABEL maintainer="Daniel García (cr0hn) cr0hn@cr0hn.com"
 
